@@ -17,7 +17,7 @@ text-align: center;
 ul.a {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10;
   overflow: hidden;
   background-color: #dddddd;
 }
@@ -33,10 +33,13 @@ li.a {
 
 ul.b {
     list-style: square;
-    
 }
 
-
+form{
+    background-color: #dddddd;
+    width: 348;
+    padding: 10;
+}
 nav {
 color: blue;
 text-align: left
