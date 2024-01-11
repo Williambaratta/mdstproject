@@ -7,12 +7,30 @@ background-color: #FFFFFF;
 
 h1 { 
 color: #000000;
-text-align: center;
+text-align: left;
 } 
 
 h2 { 
-text-align: center;
+color: #000000;
+text-align: left;
 } 
+
+h3 { 
+color: #000000;
+text-align: left;
+} 
+
+p{
+    width: 700;
+    background-color: #dddddd;
+    padding: 5;
+}
+
+p1{
+    width: 700;
+    background-color: #dddddd;
+    padding: 5;
+}
 
 ul.a {
   list-style-type: none;
@@ -42,5 +60,5 @@ form{
 }
 nav {
 color: blue;
-text-align: left
+text-align: left;
 }
