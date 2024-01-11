@@ -62,3 +62,8 @@ nav {
 color: blue;
 text-align: left;
 }
+
+div{
+    float: left;
+    padding: 15px
+}
